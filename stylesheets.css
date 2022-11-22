@@ -18,8 +18,19 @@
 .picture {
     width:130px;
     height:130px;
-    border: 1px solid black;
+    border: 1px solid gray;
     position:absolute;
     left:50%;
-    transform:translate(-65px)
+    transform:translate(-65px);
+}
+.imagetext {
+    width: 39px;
+    height: 18px;
+    position: absolute;
+    left: 81px;
+    top: 56px;
+}
+.imagetext::before {
+    content:'image';
+    color: white;
 }
