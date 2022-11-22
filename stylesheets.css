@@ -7,3 +7,19 @@
     transform:translate(-50%);
 
 }
+.article-one {
+    width:200px;
+    height:226px;
+    background-color: rgba(128, 128, 128, 0.3);
+    position:absolute;
+    left:20px;
+    top: 20px;
+}
+.picture {
+    width:130px;
+    height:130px;
+    border: 1px solid black;
+    position:absolute;
+    left:50%;
+    transform:translate(-65px)
+}
