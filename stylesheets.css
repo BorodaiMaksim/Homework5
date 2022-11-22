@@ -44,3 +44,13 @@
     font-weight:bold;
     
 }
+.main-content {
+    width:99%;
+    height:36px;
+    position: absolute;
+    top: 172px;
+    text-align:center;
+    font-size: 11px;
+    line-height: 10px;
+    font-style: italic;
+}
