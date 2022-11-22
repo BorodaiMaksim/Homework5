@@ -1,6 +1,6 @@
 ﻿.grid {
-    width:700px;
-    height:502px;
+    width:680px;
+    height:512px;
     border: 1px solid black;
     position: relative;
     left: 50%;
@@ -33,4 +33,14 @@
 .imagetext::before {
     content:'image';
     color: white;
+}
+.title {
+    width:99%;
+    height: 22px;
+    border: 1px solid black;
+    position:absolute;
+    top:140px;
+    text-align:center;
+    font-weight:bold;
+    
 }
