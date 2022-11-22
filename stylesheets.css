@@ -1,0 +1,9 @@
+﻿.grid {
+    width:700px;
+    height:502px;
+    border: 1px solid black;
+    position: relative;
+    left: 50%;
+    transform:translate(-50%);
+
+}
